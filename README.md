@@ -13,5 +13,9 @@ git clone git@github.com:barretlee/xss-filter-bypass.git
 node index.js;
 ```
 
-- `points` 目录为反射点
+- `/points` 目录为反射点
 - `bypass.config` 为注入的 XSS 脚本配置列表
+
+## 参考资料
+
+具体细节可以看这篇文章（日文）：[Browser's-XSS-Filter-Bypass-Cheat-Sheet](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
